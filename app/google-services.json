@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851335737434",
+    "project_id": "vision-assist-4f6ae",
+    "storage_bucket": "vision-assist-4f6ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851335737434:android:686afcb42150e08c01e863",
+        "android_client_info": {
+          "package_name": "com.programminghut.realtime_object"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEAYVpd99u-mLAkASCnzAn-CumAvLKmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
